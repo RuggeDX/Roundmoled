@@ -36,6 +36,7 @@ themevarsp
     --dark-bright: #0b0b0b;
     --roundmoled-background: #142339;
     --popout-activeborders: #1f1f1f;
+    --attachment-zoom: 100%;
 }
 
 
@@ -130,7 +131,7 @@ themevarsp
 .attachment-1PZZB2, .theme-dark .wrapperAudio-1Bzv_Z{
     border-radius: 15px;
     background-color:var(--dark-bright);
-    width:150%;
+    /* width:150%; */
 }
 .attachment-1PZZB2:hover, .theme-dark .wrapperAudio-1Bzv_Z:hover{
     background-color:var(--dark-secondary);
