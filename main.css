@@ -26,7 +26,7 @@
 themevarsp
 ***************************************************************************************/
 /*  imports */
-@import "https://tiredmala.github.io/animcord/animcordmain.css";
+@import "https://raw.githubusercontent.com/RuggeDX/animcord/main/animcordmain.css";
 @import "https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/SettingsIcons.css";
 
 :root{
@@ -131,7 +131,7 @@ themevarsp
 .attachment-1PZZB2, .theme-dark .wrapperAudio-1Bzv_Z{
     border-radius: 15px;
     background-color:var(--dark-bright);
-    /* width:150%; */
+    width:150%;
 }
 .attachment-1PZZB2:hover, .theme-dark .wrapperAudio-1Bzv_Z:hover{
     background-color:var(--dark-secondary);
